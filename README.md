@@ -1,7 +1,7 @@
 # Eurorack-PT2399-Delay
  
 ## Introduction
-This is a delay module that uses the popular PT2399 delay chip. You would need a mixer/VCAs in order to enjoy all the features of this module. The circuit design takes inspiration from the Echobase pedal, Benjiaomodular's Mini Delay Eurorack module, and the Electrosmash PT2399 Delay chip analysis.
+This is a delay module that uses the popular PT2399 delay chip. You would need a mixer/VCAs in order to enjoy all the features of this module. The circuit design takes circuit blocks from the Echobase pedal, Benjiaomodular's Mini Delay Eurorack module, and the Electrosmash PT2399 Delay chip analysis.
 ## Features
 - Voltage controllable delay time (10 vpp)
 - 2 Wet and 1 dry output
