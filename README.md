@@ -39,7 +39,7 @@ What's ready for builders today, and what's still on the TODO list:
 
 **Documentation**
 
-- [ ] Photos of the assembled module — none yet
+- [ ] Photos of the assembled module — none yet (drop in [`photos/`](photos/))
 - [ ] Demo video — none yet
 - [ ] Build / assembly instructions — none yet
 
